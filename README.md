@@ -8,4 +8,8 @@ Tasks to do
 * Setup the process: `bash manage.sh setup`
 * Start the process: `bash manage.sh start` 
 
+### Author
+
+Jhalf)SS
+
 
